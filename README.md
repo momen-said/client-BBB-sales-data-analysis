@@ -1,4 +1,4 @@
-# client-BBB-sales-data-analysis
+# client BBB sales data analysis
 
 it's a project done to analyze the sales data of BBB company, to definr some trends, KPIs, the main business metrics that may help the managers to make their decisions.
 
